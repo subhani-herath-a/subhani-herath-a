@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhani-herath-a&label=Profile%20views&color=0e75b6&style=flat" alt="subhani-herath-a" /> </p>
 
-- 🔭 I’m currently working on [test](blank)
+- 🔭 I’m an undergraduate of Information and Communication Technology Degree program at Uva Wellassa University of Sri Lanka [test](blank)
 
 - 🌱 I’m currently learning **java springboot**
 
