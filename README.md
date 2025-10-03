@@ -5,11 +5,10 @@
 
 - 🔭 I’m an undergraduate of Information and Communication Technology Degree program at Uva Wellassa University of Sri Lanka [test](blank)
 
-- 🌱 I’m currently learning **java springboot**
 
-- 💬 Ask me about **techie**
 
-- 📫 How to reach me **subhani.h.herath@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
