@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhani Herath</h1>
 <h3 align="center">A passionate Full-stack developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhani-herath-a&label=Profile%20views&color=0e75b6&style=flat" alt="subhani-herath-a" /> </p>
+
 
 I’m an undergraduate of Information and Communication Technology Degree program at Uva Wellassa University of Sri Lanka
 
