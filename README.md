@@ -7,7 +7,7 @@ I’m Subhani Herath, an undergraduate in BICT (Software Technology specializati
 
 What I Bring:</br>
 
-✔️ Strong foundation in 𝐉𝐚𝐯𝐚, 𝐒𝐩𝐫𝐢𝐧𝐠𝐛𝐨𝐨𝐭 and 𝐎𝐎𝐏 concepts  </br>
+✔️ Strong foundation in 𝐉𝐚𝐯𝐚, 𝐒𝐩𝐫𝐢𝐧𝐠𝐛𝐨𝐨𝐭,Python and 𝐎𝐎𝐏 concepts  </br>
 ✔️ Hands-on experience with 𝐑𝐞𝐚𝐜𝐭, 𝐍𝐨𝐝𝐞.𝐣𝐬, 𝐄𝐱𝐩𝐫𝐞𝐬𝐬.𝐣𝐬, and 𝐌𝐨𝐧𝐠𝐨𝐃𝐁 </br>
 ✔️ Knowledge in 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐭𝐞𝐬𝐭𝐢𝐧𝐠, 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐜𝐨𝐧𝐭𝐫𝐨𝐥 (𝐆𝐢𝐭/𝐆𝐢𝐭𝐇𝐮𝐛), and 𝐀𝐏𝐈 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 </br>
 ✔️ Ability to work collaboratively in teams and contribute to real-world projects </br>
